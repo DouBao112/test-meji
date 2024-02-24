@@ -8,9 +8,12 @@
   },
   "repository": {
     "type": "git",
-      "url": "git+https://github.com/DouBao112/test-meji"
+    "url": "git+https://github.com/DouBao112/test-meji"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.11.1"
+  }
 }
